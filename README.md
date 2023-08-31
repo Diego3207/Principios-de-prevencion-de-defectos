@@ -1,12 +1,11 @@
 # Principios de prevención de defectos
-Tema: Principios de prevención de defectos
-Materia: Computación Tolerante a Fallas
-Maestro: MICHEL EMANUEL LOPEZ FRANCO
-Nombre: Diego Alonso Mercado Brizuela
-Carrera: Ingeniería en Computación
-Código: 215425636
-Fecha: 31/08/2023
-Sección: D06
+Materia: Computación Tolerante a Fallas<br>
+Maestro: MICHEL EMANUEL LOPEZ FRANCO<br>
+Nombre: Diego Alonso Mercado Brizuela<br>
+Carrera: Ingeniería en Computación<br>
+Código: 215425636<br>
+Fecha: 31/08/2023<br>
+Sección: D06<br>
 
 ## Introducción
 La prevención de errores es un método para poder combatir los errores en fase de desarrollo o ya en la producción del mismo producto, por lo que ayudaría de gran medida a que no aparezcan errores o por lo menos disminuir parte de ellos.
