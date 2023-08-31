@@ -23,3 +23,5 @@ Excel y otras hojas de cálculo no están integradas de forma nativa con el soft
 La gestión tradicional de la cadena de suministro se basa en gran medida en el informe "grande", un documento de alto riesgo creado para guiar la toma de decisiones al más alto nivel. Se necesita un esfuerzo significativo para crear estos informes y, sin datos en tiempo real, se basará en información desactualizada o inexacta. Por el contrario, las tecnologías modernas de gestión de la cadena de suministro pueden producir información basada en análisis de inteligencia artificial (IA) en cualquier momento.
 - Sin procedimientos operativos estándar
 Sin las herramientas adecuadas para establecer procedimientos operativos estándar, es fácil que los proveedores y las fábricas no estén alineados con las expectativas de la marca y el minorista, creando un proceso de producción desordenado y obstáculos para el cumplimiento.
+# Conclusiones
+Es importante conocer cómo prevenir los errores ya que pueden evitar retrasos ya sea en producción o desde la fase de desarrollo, por lo que aprender a evitar o solventar los errores es más que necesario hoy en día en la industria.
